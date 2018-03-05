@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the extlink_purpose_progress feature.
+ */
+
+include_once 'extlink_purpose_progress.features.inc';

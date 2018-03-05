@@ -30,8 +30,12 @@
         "drupal/colorbox": "^2.13",
         "drupal/composer_autoloader": "^1.0",
         "drupal/drupal": "~7.0",
+        "drupal/drupal-extension": "^3.4",
         "drupal/extlink": "^1.18",
         "drupal/extlink_extra": "1.x-dev",
+        "drupal/features": "^2.10",
+        "drupal/node_export": "^3.1",
+        "drupal/strongarm": "^2.0",
         "drush/drush": "~8.0",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3"

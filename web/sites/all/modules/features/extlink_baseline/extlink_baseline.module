@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the extlink_baseline feature.
+ */
+
+include_once 'extlink_baseline.features.inc';
