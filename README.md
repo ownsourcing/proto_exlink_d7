@@ -63,7 +63,7 @@ $ drush en features strongarm node_export node_export_features node_export_featu
 $ composer require drupal/drupal-extension
 
 test details:
-  features to test against php versions 5.6 & 7 on desktop and mobile (3 breakpoints)
+  features to test against php versions 5.6 & 7 on desktop and mobile (3 breakpoints)  
   defaults:
     Apply icons to either mailto or external links or both when provided via following means
     entity_types: content, comment, user, taxonomy
